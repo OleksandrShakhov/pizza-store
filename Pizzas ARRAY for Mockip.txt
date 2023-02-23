@@ -1,0 +1,200 @@
+[
+ {
+  "id": 0,
+  "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/30367198-f3bd-44ed-9314-6f717960da07.jpg",
+  "title": "Pepperoni",
+  "types": [
+   0,
+   1
+  ],
+  "sizes": [
+   26,
+   30,
+   40
+  ],
+  "price": 11.99,
+  "category": 2,
+  "reating": 4
+ },
+ {
+  "id": 1,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+  "title": "Mexican",
+  "types": [
+   0
+  ],
+  "sizes": [
+   26,
+   40
+  ],
+  "price": 9.99,
+  "category": 1,
+  "reating": 6
+ },
+ {
+  "id": 2,
+  "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/ec29465e-606b-4a04-a03e-da3940d37e0e.jpg",
+  "title": "Hawaiian",
+  "types": [
+   0,
+   1
+  ],
+  "sizes": [
+   26,
+   30,
+   40
+  ],
+  "price": 10.99,
+  "category": 2,
+  "reating": 5
+ },
+ {
+  "id": 3,
+  "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
+  "title": "Mini-Meat",
+  "types": [
+   0
+  ],
+  "sizes": [
+   26,
+   30
+  ],
+  "price": 6.99,
+  "category": 3,
+  "reating": 7
+ },
+ {
+  "id": 4,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+  "title": "Donair",
+  "types": [
+   0,
+   1
+  ],
+  "sizes": [
+   26,
+   30,
+   40
+  ],
+  "price": 11.99,
+  "category": 4,
+  "reating": 4
+ },
+ {
+  "id": 5,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+  "title": "BBQ",
+  "types": [
+   1
+  ],
+  "sizes": [
+   26,
+   30,
+   40
+  ],
+  "price": 11.99,
+  "category": 1,
+  "reating": 4
+ },
+ {
+  "id": 6,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+  "title": "Margherita",
+  "types": [
+   0,
+   1
+  ],
+  "sizes": [
+   26,
+   30,
+   40
+  ],
+  "price": 11.99,
+  "category": 2,
+  "reating": 4
+ },
+ {
+  "id": 7,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+  "title": "Veggie",
+  "types": [
+   0
+  ],
+  "sizes": [
+   26,
+   30,
+   40
+  ],
+  "price": 11.99,
+  "category": 2,
+  "reating": 4
+ },
+ {
+  "id": 8,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+  "title": "Mozza Lozza",
+  "types": [
+   0,
+   1
+  ],
+  "sizes": [
+   26,
+   30,
+   40
+  ],
+  "price": 11.99,
+  "category": 4,
+  "reating": 4
+ },
+ {
+  "id": 9,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+  "title": "California",
+  "types": [
+   0,
+   1
+  ],
+  "sizes": [
+   26,
+   30,
+   40
+  ],
+  "price": 11.99,
+  "category": 3,
+  "reating": 4
+ },
+ {
+  "id": 10,
+  "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+  "title": "Cheeseburger",
+  "types": [
+   0,
+   1
+  ],
+  "sizes": [
+   26,
+   30,
+   40
+  ],
+  "price": 11.99,
+  "category": 2,
+  "reating": 4
+ },
+ {
+  "id": 11,
+  "imageUrl": "https://img.freepik.com/free-photo/pizza-with-cheese-tomato-isolated-white-background-pizza-margarita-top-view-photo-menu_639032-301.jpg?w=826&t=st=1673578240~exp=1673578840~hmac=0e7ae95ed640e635d10e39bba042b9808d10cf0b0bc355ae8ded3e499ee7f520",
+  "title": "Chinook",
+  "types": [
+   0,
+   1
+  ],
+  "sizes": [
+   26,
+   30,
+   40
+  ],
+  "price": 11.99,
+  "category": 1,
+  "reating": 4
+ }
+]
